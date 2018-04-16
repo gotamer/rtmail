@@ -3,6 +3,8 @@
 RTMAIL enables you to route incoming SMTP emails to other SMTP destinations and HTTPS endpoints.
 See rtmail.conf and routes.conf on how to configure RTMAIL.
 
+`This project is no longer maintained.`
+
 ## Usage
 
 Set your email routes in a separate file (see example) and add the path to your routes file in the main config file.
